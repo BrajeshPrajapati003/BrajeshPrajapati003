@@ -22,5 +22,4 @@ I'm Brajesh Prajapati, a passionate learner and aspiring Java developer. I'm ded
 - 🔭 I’m currently working on various Java and web development projects to deepen my understanding and gain practical experience.
 - 🌱 I’m currently learning Java and exploring its vast ecosystem.
 - 📫 How to reach me: prajapatibrajesh003@gmail.com | https://www.linkedin.com/in/brajesh-prajapati/
-
-![Profile Views](https://komarev.com/ghpvc/?username=BrajeshPrajapati003)
+  
