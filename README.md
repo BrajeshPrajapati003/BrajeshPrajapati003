@@ -17,7 +17,7 @@ I'm Brajesh Prajapati, a passionate learner and aspiring Java developer. I'm ded
 - ⚡ Fun fact: ...
 -->
 
-I'm Brajesh Prajapati, a passionate learner and aspiring Java developer. I'm dedicated to mastering Java and constantly improving my skills. Here's a bit about me:
+I'm Brajesh, a passionate learner and aspiring Java developer. I'm dedicated to mastering Java and constantly improving my skills. Here's a bit about me:
 
 - 🔭 I’m currently working on various Java and web development projects to deepen my understanding and gain practical experience.
 - 🌱 I’m currently learning Java and exploring its vast ecosystem.
